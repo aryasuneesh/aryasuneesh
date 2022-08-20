@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on any project related to deep learning<br>🌱 I’m currently learning Pytorch and Machine Learning Algorithms<br>⚡ Fun fact : I can speak in 6 languages (albeit only basic sentences in some of them)
+👯 I’m looking to collaborate on any project related to deep learning<br>🌱 I’m currently learning Pytorch and Machine Learning Algorithms<br>⚡ Fun fact : I can speak in 6 languages (albeit only basic sentences in some of them)
 
 
 ## 🌐 Socials:
@@ -18,5 +18,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=aryasuneesh&icon=3&color=11)](https://visitcount.itsvg.in)
