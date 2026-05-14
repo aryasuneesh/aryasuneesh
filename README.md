@@ -1,24 +1,3 @@
-```yaml
----
-language:
-- en
-- hi
-- ml
-- ar
-- de
-- fr
-- ko
-tags:
-- nlp
-- finetuning-llms
-- multimodal-ai
-- multilingual
-- conversational-ai
-- human-ai-interaction
-- mlresearch
-license: mit
----
-```
 
 # Model Card for Arya Suneesh
 
